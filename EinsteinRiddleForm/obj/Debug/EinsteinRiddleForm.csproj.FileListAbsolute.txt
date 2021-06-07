@@ -1,0 +1,10 @@
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\bin\Debug\EinsteinRiddleForm.exe.config
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\bin\Debug\EinsteinRiddleForm.exe
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\bin\Debug\EinsteinRiddleForm.pdb
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.csprojAssemblyReference.cache
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.Form1.resources
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.Properties.Resources.resources
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.csproj.GenerateResource.cache
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.csproj.CoreCompileInputs.cache
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.exe
+C:\Users\Kariuki\source\repos\EinsteinRiddleForm\EinsteinRiddleForm\obj\Debug\EinsteinRiddleForm.pdb
